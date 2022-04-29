@@ -5,3 +5,4 @@ current version is 2.0
 
 Vcripts are used to make this activator powerful,efficient,effective and lightweight!
 
+go to the 
