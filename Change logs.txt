@@ -1,0 +1,25 @@
+v2.0.0 Release changelogs
+=========================
+> Added Vscripts for faster and much efficient than ever
+
+> Added support for x64, x86 and AMD based CPU's
+
+> Support for windows 7, 8.1, 10 and 11
+
+> User-Friendly UI
+
+> No need of restart anymore!
+
+> Light weight
+
+> Added KMS38 support!
+
+======End Of Changelogs======
+
+©WinzapLLC.
+WinZAP is the property of WinzapLLC.
+
+
+
+
+
